@@ -1,6 +1,6 @@
 # Fedora 31 Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora31-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora31-ansible/)
+![Build Status](https://travis-ci.com/geerlingguy/docker-fedora31-ansible.svg?branch=master)](https://travis-ci.com/geerlingguy/docker-fedora31-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora31-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora31-ansible/)
 
 Fedora 31 Docker container for Ansible playbook and role testing.
 
